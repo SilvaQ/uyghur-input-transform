@@ -1,0 +1,20 @@
+{
+  "name": "uyghur-input-transform",
+  "version": "0.0.1",
+  "author": "SilvaQ",
+  "description": "this library transform input character to uyghur",
+  "keywords": [
+    "uyghur-input-transform",
+    "uyghur-transform",
+    "uyghur-input",
+    "input-transform"
+  ],
+  "repository": {
+    "url": "SilvaQ/uyghur-input-transform"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
