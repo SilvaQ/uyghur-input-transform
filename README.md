@@ -73,4 +73,6 @@ this library transform input character to uyghur
 
 ك		k
 
-
+# چىگىرىلالاش بەلگىسى
+"/" chigirilash belgisi qilinip ishlitilidu.
+yeni,mezmun arisida /你好/ weyaki /hello world/ digendek ipadige yuluqqanda "/" din bashlinip yene bir "/" giche bolghan da iridiki barliq mezmunlar esli peti saqlinip uyghurche kod almashturushqa qatnashmaydu .
