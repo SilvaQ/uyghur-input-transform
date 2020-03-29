@@ -1,78 +1,104 @@
 # uyghur-input-transform
+
 this library transform input character to uyghur
 
 # شىرخان ئېلىپبە جەدىۋىلى
 
+ئا a
 
+ئە e
 
-ئا	a		
+ئې **ei**
 
-ئە	e
+ئى i
 
-ئې	**ei**
+ئو o
 
-ئى	i
+ئۇ u
 
-ئو	o
+ئۆ ov
 
-ئۇ	u
-
-ئۆ	ov
-
-ئۈ   **oi**
+ئۈ **oi**
 
 ---
 
-ب		b
+ب b
 
-د		d
+د d
 
-گ		g
+گ g
 
-ج		j
+ج j
 
-ل		l
+ل l
 
-م		m
+م m
 
-ن		n
+ن n
 
-ر		r
+ر r
 
-ۋ		w
+ۋ w
 
-ي		y
+ي y
 
-ز		z
+ز z
 
-غ		gh
+غ gh
 
-ژ		**rh**
+ژ **rh**
 
-ڭ 		ng
+ڭ ng
 
-ھ		 **h**
+ھ **h**
 
 ---
 
-پ		p
+پ p
 
-ت		t
+ت t
 
-چ		ch
+چ ch
 
-س		s
+س s
 
-خ		**kh**
+خ **kh**
 
-ش		x
+ش x
 
-ف		f
+ف f
 
-ق		q
+ق q
 
-ك		k
+ك k
 
 # چىگىرىلالاش بەلگىسى
+
 "/" chigirilash belgisi qilinip ishlitilidu.
 yeni,mezmun arisida /你好/ weyaki /hello world/ digendek ipadige yuluqqanda "/" din bashlinip yene bir "/" giche bolghan da iridiki barliq mezmunlar esli peti saqlinip uyghurche kod almashturushqa qatnashmaydu .
+
+# alpha Mappings rule
+
+<p dir="rtl">
+1.
+ھەرپ سانى بىر بولغاندا بىرىنچى ھەرپنىڭ يالغۇز شەكلى كىلىدۇ.
+</p>
+<p dir="rtl">
+2.
+  ھەرپ سانى بىردىن چوڭ بولغاندا، بىرىنچى ھەرپنىڭ باش يىزىلىشى كېلىدۇ.
+</p>
+<p dir="rtl">
+3.  ئارلىقتىكى ھەرپنىڭ ئالدىدىكى ھەرپ بەلگىسى 0 بولسا باش يىزىلىشى كېلىدۇ.
+</p>
+<p dir="rtl">
+4.  ئارلىقتىكى ھەرپنىڭ ئالدىدىكى ھەرپ بەلگىسى 1 بولسا ئوتتۇرىدا يىزىلىشى كېلىدۇ.
+</p>
+<p dir="rtl">
+5.  ئاخىرقى ھەرپنىڭ ئالدىدىكى ھەرپ بەلگىسى 0 بولسا يالغۇز شەكلى كېلىدۇ.
+</p>
+<p dir="rtl">
+6.  ئاخىرقى ھەرپنىڭ ئالدىدىكى ھەرپ بەلگىسى 1 بولسا ئاخىرقى يىزىلىشى كېلىدۇ.
+</p>
+<p dir="rtl">
+7.  ئاخىرىدا بارلىق لا(ئىككى خىل شەكلى بار) كىڭەيتىلگەن لا(ئىككى خىل شەكلى بار)غا ئالماشتۇرىمىز.
+</p>
