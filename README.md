@@ -77,7 +77,7 @@ this library transform input character to uyghur
 "/" chigirilash belgisi qilinip ishlitilidu.
 yeni,mezmun arisida /你好/ weyaki /hello world/ digendek ipadige yuluqqanda "/" din bashlinip yene bir "/" giche bolghan da iridiki barliq mezmunlar esli peti saqlinip uyghurche kod almashturushqa qatnashmaydu .
 
-#uighur alphabet unicode to extends Mappings rule (from sherer [elshat])
+# uighur alphabet unicode to extends Mappings rule (from sherer [elshat])
 
 <p dir="rtl">
 1.
