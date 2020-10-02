@@ -3,7 +3,10 @@
 this library transform input character to uyghur
 
 # شىرخان ئېلىپبە جەدىۋىلى
-
+> how is Hemze?
+>
+ئ‍  **ih || ki**
+>
 ئا a
 
 ئە e
@@ -16,7 +19,7 @@ this library transform input character to uyghur
 
 ئۇ u
 
-ئۆ ov
+ئۆ **ov**
 
 ئۈ **oi**
 
@@ -44,11 +47,11 @@ this library transform input character to uyghur
 
 ز z
 
-غ gh
+غ **gh**
 
 ژ **rh**
 
-ڭ ng
+ڭ **ng**
 
 ھ **h**
 
@@ -58,12 +61,10 @@ this library transform input character to uyghur
 
 ت t
 
-چ ch
-
+چ **ch**
 س s
 
 خ **kh**
-
 ش x
 
 ف f
@@ -76,6 +77,10 @@ this library transform input character to uyghur
 
 "/" chigirilash belgisi qilinip ishlitilidu.
 yeni,mezmun arisida /你好/ weyaki /hello world/ digendek ipadige yuluqqanda "/" din bashlinip yene bir "/" giche bolghan da iridiki barliq mezmunlar esli peti saqlinip uyghurche kod almashturushqa qatnashmaydu .
+
+
+
+--- 
 
 # uighur alphabet unicode to extends Mappings rule (from sherer [elshat])
 
