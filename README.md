@@ -8,7 +8,7 @@ this library transform input character to uyghur
 ئ‍  ~**ih || ki**~  测试结果表明不能使用已存在的字母可以组合生成的任何一组字母 比如 kitab,ihtimal 和这两个字母重叠了 所以不能这样使用
 >
 
-ئ‍ ic? || ci ?
+ئ‍ ic? || ~ci ?~
 
 
 ئا a
@@ -71,6 +71,7 @@ this library transform input character to uyghur
 س s ? || ~c?~ 
 
 خ **kh**
+
 ش x
 
 ف f
