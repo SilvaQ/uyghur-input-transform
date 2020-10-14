@@ -3,13 +3,11 @@
 this library transform input character to uyghur
 
 # شىرخان ئېلىپبە جەدىۋىلى
-> how is Hemze?
->
-ئ‍  ~**ih || ki**~  测试结果表明不能使用已存在的字母可以组合生成的任何一组字母 比如 kitab,ihtimal 和这两个字母重叠了 所以不能这样使用
->
+# shirkhan-alphabet
 
-ئ‍ ic? || ~ci ?~
+# شىرخان ئېلىپبە جەدىۋىلى
 
+ئ‍ ii
 
 ئا a
 
@@ -67,8 +65,7 @@ this library transform input character to uyghur
 
 چ **ch**
 
-
-س s ? || ~c?~ 
+س s
 
 خ **kh**
 
@@ -80,10 +77,15 @@ this library transform input character to uyghur
 
 ك k
 
-# چىگىرىلالاش بەلگىسى
+# چىگىرىلاش بەلگىسى
 
-"/" chigirilash belgisi qilinip ishlitilidu.
-yeni,mezmun arisida /你好/ weyaki /hello world/ digendek ipadige yuluqqanda "/" din bashlinip yene bir "/" giche bolghan da iridiki barliq mezmunlar esli peti saqlinip uyghurche kod almashturushqa qatnashmaydu .
+"/"
+
+> exam: /你好/ weyaki /hello world/
+
+# مىزان
+
+بىرىنجى: بارلىق سوزۇق تاۋۇشلار سۆزلۈكنىڭ بېشىدا كەلگەندە ھەمزە ئاپتۇماتىك قۇشۇلىدۇ،ئايرىم يېزىش ھاجەتسىز
 
 
 
